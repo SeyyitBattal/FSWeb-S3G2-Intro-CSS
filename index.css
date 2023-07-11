@@ -3,6 +3,15 @@
   border: 1px solid tomato;
   background: lightblue;
 } */
+body {
+  margin: 0;
+  font-family: "Roboto Mono";
+}
+
+h1 {
+  font-family: "Chelsea Market";
+}
+
 p {
   text-align: center;
 }
@@ -53,6 +62,7 @@ p {
 #Bilgi {
   background: #5ed3eb;
   padding: 10px;
+  margin: 1rem;
 }
 #Karsila {
   background: #ffcd69;
@@ -90,7 +100,8 @@ p {
 }
 
 .footerImage {
-  max-width: 500%;
-
   height: 200px;
+  width: 100%;
+  object-fit: cover;
+  border-color: #f9e7dc;
 }
