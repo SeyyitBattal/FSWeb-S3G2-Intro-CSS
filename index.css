@@ -40,7 +40,7 @@ p {
 }
 .EnUstEnAlt p {
   border: 1px solid white;
-  border-radius: 5px;
+  border-radius: 10px;
   width: 7rem;
   text-align: center;
   color: white;
@@ -58,15 +58,17 @@ p {
 
 #Gezi {
   background: #ff764e;
+  padding: 7px;
 }
 #Bilgi {
   background: #5ed3eb;
-  padding: 10px;
+  padding: 7px;
+
   margin: 1rem;
 }
 #Karsila {
   background: #ffcd69;
-  padding: 10px;
+  padding: 15px;
 }
 
 .bold {
@@ -93,6 +95,7 @@ p {
 .BalonAtvYazisi {
   margin-left: 35%;
   margin-right: 35%;
+  margin-bottom: 10rem;
 }
 
 .footer {
