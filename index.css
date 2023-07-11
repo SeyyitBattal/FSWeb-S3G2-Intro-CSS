@@ -1,0 +1,96 @@
+/* * {
+  box-sizing: border-box;
+  border: 1px solid tomato;
+  background: lightblue;
+} */
+p {
+  text-align: center;
+}
+#specialPhoto {
+  max-width: 25%;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  float: left;
+}
+
+.TumSayfaIcin {
+  margin-left: 100px;
+  margin-right: 100px;
+  max-width: 100%;
+}
+
+.EnUstEnAlt {
+  text-align: center;
+  display: flex;
+  margin-bottom: 100px;
+}
+.enAlt {
+  text-align: center;
+  display: flex;
+}
+.EnUstEnAlt p {
+  border: 1px solid white;
+  border-radius: 5px;
+  width: 7rem;
+  text-align: center;
+  color: white;
+  margin: auto;
+}
+
+.enAlt p {
+  border: 1px solid white;
+  border-radius: 5px;
+  width: 7rem;
+  text-align: center;
+  color: white;
+  margin: auto;
+}
+
+#Gezi {
+  background: #ff764e;
+}
+#Bilgi {
+  background: #5ed3eb;
+  padding: 10px;
+}
+#Karsila {
+  background: #ffcd69;
+  padding: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.baslikSonrasi {
+  margin-bottom: 11rem;
+}
+
+.header img {
+  max-width: 25%;
+}
+
+.araParagraf {
+  background: #ddb9a3;
+  color: white;
+}
+
+.BalonAtv {
+  align-items: center;
+  max-width: 10%;
+}
+.BalonAtvYazisi {
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.footer {
+  background: #f9e7dc;
+}
+
+.footerImage {
+  max-width: 500%;
+
+  height: 200px;
+}
